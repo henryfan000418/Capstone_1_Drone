@@ -1,0 +1,90 @@
+Sample IOI Contract 1
+Indication of Interest (IOI) Contract
+
+This Agreement ("IOI Contract") is made and entered into on January 15, 2024, by and between:
+
+Buyer: ABC Corporation, a company incorporated under the laws of [Insert Jurisdiction], with its principal office at [Insert Address].
+Seller: XYZ Supplies Ltd., a company incorporated under the laws of [Insert Jurisdiction], with its principal office at [Insert Address].
+1. Scope of Agreement:
+The Buyer expresses interest in purchasing the Seller's goods or services within the following range:
+
+Upper Bound of Purchasing Value: $500,000 (Five Hundred Thousand Dollars).
+Lower Bound of Purchasing Value: $300,000 (Three Hundred Thousand Dollars).
+2. Evaluation Metric:
+The purchasing value will be calculated based on a 2.5x EBITDA multiple, subject to due diligence and agreement on final terms.
+
+3. Term and Validity:
+This IOI remains valid until mutual agreement on definitive terms or [Insert Expiry Date], whichever occurs first.
+
+
+Sample IOI Contract 2
+Indication of Interest (IOI) Contract
+
+This Agreement ("IOI Contract") is made and entered into on February 20, 2024, by and between:
+
+Buyer: Global Retail Inc., a company incorporated under the laws of [Insert Jurisdiction], with its principal office at [Insert Address].
+Seller: Prime Goods LLC, a company incorporated under the laws of [Insert Jurisdiction], with its principal office at [Insert Address].
+1. Scope of Agreement:
+The Buyer expresses interest in purchasing the Seller's assets within the following range:
+
+Upper Bound of Purchasing Value: $1,200,000 (One Million Two Hundred Thousand Dollars).
+Lower Bound of Purchasing Value: $800,000 (Eight Hundred Thousand Dollars).
+2. Evaluation Metric:
+The purchasing value will be calculated based on a 3.0x Gross Profit multiple, subject to confirmation during negotiations.
+
+3. Term and Validity:
+This IOI remains valid until mutual agreement or [Insert Expiry Date], whichever occurs first.
+
+Sample IOI Contract 3
+Indication of Interest (IOI) Contract
+
+This Agreement ("IOI Contract") is made and entered into on March 5, 2024, by and between:
+
+Buyer: Midwest Industries, a company incorporated under the laws of [Insert Jurisdiction], with its principal office at [Insert Address].
+Seller: Delta Resources Co., a company incorporated under the laws of [Insert Jurisdiction], with its principal office at [Insert Address].
+1. Scope of Agreement:
+The Buyer expresses interest in purchasing the Seller's business within the following range:
+
+Upper Bound of Purchasing Value: $750,000 (Seven Hundred Fifty Thousand Dollars).
+Lower Bound of Purchasing Value: $500,000 (Five Hundred Thousand Dollars).
+2. Evaluation Metric:
+The purchasing value will be calculated based on a 1.8x Revenue multiple, subject to mutual consent following due diligence.
+
+3. Term and Validity:
+This IOI remains valid until [Insert Expiry Date], pending the signing of a definitive purchase agreement.
+
+Sample IOI Contract 4
+Indication of Interest (IOI) Contract
+
+This Agreement ("IOI Contract") is made and entered into on April 10, 2024, by and between:
+
+Buyer: Tech Innovators Ltd., a company incorporated under the laws of [Insert Jurisdiction], with its principal office at [Insert Address].
+Seller: Smart Parts Manufacturing, a company incorporated under the laws of [Insert Jurisdiction], with its principal office at [Insert Address].
+1. Scope of Agreement:
+The Buyer expresses interest in acquiring the Seller's assets within the following range:
+
+Upper Bound of Purchasing Value: $2,000,000 (Two Million Dollars).
+Lower Bound of Purchasing Value: $1,500,000 (One Million Five Hundred Thousand Dollars).
+2. Evaluation Metric:
+The purchasing value will be calculated based on a 4.2x Net Income multiple, as determined through financial reviews.
+
+3. Term and Validity:
+This IOI shall remain valid until [Insert Expiry Date], unless earlier terminated by written notice from either party.
+
+Sample IOI Contract 5
+Indication of Interest (IOI) Contract
+
+This Agreement ("IOI Contract") is made and entered into on May 25, 2024, by and between:
+
+Buyer: Fresh Farms Inc., a company incorporated under the laws of [Insert Jurisdiction], with its principal office at [Insert Address].
+Seller: AgriTech Solutions, a company incorporated under the laws of [Insert Jurisdiction], with its principal office at [Insert Address].
+1. Scope of Agreement:
+The Buyer expresses interest in purchasing the Seller's products or services within the following range:
+
+Upper Bound of Purchasing Value: $1,000,000 (One Million Dollars).
+Lower Bound of Purchasing Value: $700,000 (Seven Hundred Thousand Dollars).
+2. Evaluation Metric:
+The purchasing value will be calculated based on a 2.7x Operating Cash Flow multiple, contingent upon satisfactory completion of all due diligence processes.
+
+3. Term and Validity:
+This IOI remains valid until [Insert Expiry Date], subject to extension upon mutual written agreement.
